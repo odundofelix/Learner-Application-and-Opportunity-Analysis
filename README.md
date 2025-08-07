@@ -59,7 +59,7 @@ The interactive dashboard provides insights on:
 - **Opportunity Category Popularity**
 - **Time-based Application Trends**
 
-🔗 [View Dashboard](https://lookerstudio.google.com/u/0/reporting/b862e1f0-b934-4f52-905d239fcfa7cbdb/page/BT9SF?s=s6o9P3REKgA)
+🔗 [View Dashboard](https://lookerstudio.google.com/s/uBz933SB_uE)
 
 ---
 
