@@ -75,7 +75,7 @@ The interactive dashboard provides insights on:
 
 ---
 
-## 👥 Team Members – Team 6
+## 👥 Team Members
 
 - Niharika Pandey  
 - Sarim Kazi  
