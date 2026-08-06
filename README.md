@@ -1,8 +1,8 @@
-# 🎓 Learner Application & Opportunity Dashboard  
+# 🎓 Learner Perfomance & Opportunity Dashboard  
 ## 📌 Overview
-This project was developed during my internship at **Excelerate**, where we were tasked with creating a unified data model and dashboard to track the complete learner journey — from application to cohort assignment and engagement insights.
+I developed this project based on a problem that was presented, where I was tasked with creating a unified data model and dashboard to track the complete learner journey — from application to cohort assignment and engagement insights.
 
-Using raw, disconnected datasets, we engineered a clean and relational structure, built a centralized master table, and designed a **Looker Studio dashboard** for real-time insights. The final dashboard supports data-driven decisions to reduce dropout rates and improve learner engagement.
+Using raw, disconnected datasets, I engineered a clean and relational structure, built a centralized master table, and designed a **Looker Studio dashboard** for real-time insights. The final dashboard supports data-driven decisions to reduce dropout rates and improve learner engagement.
 
 ---
 
@@ -59,7 +59,7 @@ The interactive dashboard provides insights on:
 - **Opportunity Category Popularity**
 - **Time-based Application Trends**
 
-🔗 [View Dashboard](https://lookerstudio.google.com/s/uBz933SB_uE)
+🔗 [View Dashboard](Learner Performance and Application Dashboard.png)
 
 ---
 
@@ -74,23 +74,8 @@ The interactive dashboard provides insights on:
 | Steady application trend in 2025 | Continue monitoring as more data arrives |
 
 ---
-
-## 👥 Team Members
-
-- Niharika Pandey  
-- Sarim Kazi  
-- Felix Ochieng  
-- Parth Mane  
-- Himanshu Durgapal  
-- Aparna Agarwal  
-- Suman Iqbal  
-- Niloy Deb Barma  
-- Sanchari Karmakar  
-
----
-
 ## 🏁 Final Notes
 
-This project was a successful collaboration focused on transforming fragmented datasets into a reliable, insightful dashboard for stakeholder decision-making.
+This project was a successful work focused on transforming fragmented datasets into a reliable, insightful dashboard for stakeholder decision-making.
 
 ---
